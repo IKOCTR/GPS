@@ -1,0 +1,16 @@
+body,h1,h2,p{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+a{
+    display: none;
+}
+
+/* обнуляющие стили */
